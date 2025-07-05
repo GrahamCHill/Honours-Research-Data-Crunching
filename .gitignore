@@ -1,7 +1,8 @@
 /.venv
 /.idea
-/data/COM_CMB_IQU-smica_2048_R3.00_full.fits
+/data/*.fits
 *.png
 *.jpg
 *.jpeg
+.DS_Store
 
