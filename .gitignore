@@ -1,2 +1,7 @@
 /.venv
 /.idea
+/data/COM_CMB_IQU-smica_2048_R3.00_full.fits
+*.png
+*.jpg
+*.jpeg
+
